@@ -1,0 +1,29 @@
+@charset 'UTF-8';
+
+body{
+    background-color: rgb(205,255,203);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(31, 196, 25);
+}
+
+h2{
+    color:rgb(146, 150, 146);
+}
+h1#principal{
+color: white;
+background-color: black;
+width: auto;   
+margin: auto;
+text-align: center;
+}
+.medio{
+    color: pink;
+    font-size: 16px;
+    text-align: justify;
+}
+.esconder{
+    color: rgb(205,255,203);
+}
