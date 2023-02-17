@@ -34,7 +34,7 @@ header{
 */
 }
 header > h1{
-    font-size:  3em;
+    font-size:  10vw;
     font-variant: small-caps;
 
 }
@@ -59,6 +59,7 @@ main{
 }
 
 section{
+    font-size: 3.5vw;
     padding: 10vh 0vh;
     line-height: 2em;
     padding-left: 30px;
@@ -75,7 +76,14 @@ section.imagem{
 
 section.imagem > p{
     background-color: rgba(0, 0, 0, 0.486);
-    width: 400px;
+    display:inline-block;
+}
+
+section#joaninha{
+    background-image: url(imagens/background001.jpg);
+}
+section#livro{
+    background-image: url(imagens/background002.jpg);
 }
 
 footer{
